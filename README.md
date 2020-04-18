@@ -29,14 +29,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
 1. What is the DOM?
+    The DOM is the Document Object Model, which is a tree like data structure that is a representation of the data displayed on the screen
 
 2. What is an event?
+    An event is anything that happens in the browser such as the user moving there mouse, a button being pressed, etc.
 
 3. What is an event listener?
+    An event listener is a method used for waiting for an event to occur, this could be a click, a scroll, a mouse hovering over a specific DOM element, etc and it usually causes something to happen.
 
 4. Why would we convert a NodeList into an Array?
+    Because although you can perform a forEach on a NodeList, you may want to perform array methods such as map or filter on a dom element or even multiple elements.
 
 5. What is a component?
+    A component is a modular piece of a larger program architecture. A component could be a button, a nav bar or even the nav items added to the nav bar
 
 ### Git Set up
 
